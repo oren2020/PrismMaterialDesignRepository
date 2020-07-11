@@ -8,22 +8,30 @@ namespace ModuleA.ViewModels
 {
     public class ViewAViewModel : BindableBase
     {
-        private string _message;
         private string _skin;
         private readonly Dictionary<string, string> _skins;
 
         public DelegateCommand<string> ChangeSkinCommand { get; private set; }
 
+        private string _message;
         public string Message
         {
             get { return _message; }
             set { SetProperty(ref _message, value); }
         }
 
+        private DateTime _mySelectedDate;
+        public DateTime MySelectedDate
+        {
+            get { return _mySelectedDate; }
+            set { SetProperty(ref _mySelectedDate, value); }
+        }
+
         public ViewAViewModel()
         {
             Message = "View A";
             _skin = "Light";
+            MySelectedDate = DateTime.Now;
             ChangeSkinCommand = new DelegateCommand<string>(ChangeSkin);
 
             _skins = new Dictionary<string, string>
