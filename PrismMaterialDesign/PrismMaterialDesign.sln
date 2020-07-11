@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismMaterialDesign", "PrismMaterialDesign\PrismMaterialDesign.csproj", "{F780B544-0070-4A3A-A893-F62758B8A385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismMaterialDesign.Core", "PrismMaterialDesign.Core\PrismMaterialDesign.Core.csproj", "{0881185E-8B45-4A68-8FA0-846433E0671D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{E618A9FB-2F5D-45EA-B021-36D01DD6CB61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleA", "Modules\ModuleA\ModuleA.csproj", "{8290506D-10BF-41F3-B72B-CAF1C12BFE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleB", "Modules\ModuleB\ModuleB.csproj", "{81D9418E-06DE-4EB5-8FD9-905BAA1478A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismMaterialDesign.Resources", "PrismMaterialDesign.Resources\PrismMaterialDesign.Resources.csproj", "{66144FB3-A17D-4C6F-A2D6-C0502273BF80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F780B544-0070-4A3A-A893-F62758B8A385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F780B544-0070-4A3A-A893-F62758B8A385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F780B544-0070-4A3A-A893-F62758B8A385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F780B544-0070-4A3A-A893-F62758B8A385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0881185E-8B45-4A68-8FA0-846433E0671D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0881185E-8B45-4A68-8FA0-846433E0671D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0881185E-8B45-4A68-8FA0-846433E0671D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0881185E-8B45-4A68-8FA0-846433E0671D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8290506D-10BF-41F3-B72B-CAF1C12BFE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8290506D-10BF-41F3-B72B-CAF1C12BFE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8290506D-10BF-41F3-B72B-CAF1C12BFE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8290506D-10BF-41F3-B72B-CAF1C12BFE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D9418E-06DE-4EB5-8FD9-905BAA1478A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D9418E-06DE-4EB5-8FD9-905BAA1478A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D9418E-06DE-4EB5-8FD9-905BAA1478A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D9418E-06DE-4EB5-8FD9-905BAA1478A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66144FB3-A17D-4C6F-A2D6-C0502273BF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66144FB3-A17D-4C6F-A2D6-C0502273BF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66144FB3-A17D-4C6F-A2D6-C0502273BF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66144FB3-A17D-4C6F-A2D6-C0502273BF80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8290506D-10BF-41F3-B72B-CAF1C12BFE09} = {E618A9FB-2F5D-45EA-B021-36D01DD6CB61}
+		{81D9418E-06DE-4EB5-8FD9-905BAA1478A6} = {E618A9FB-2F5D-45EA-B021-36D01DD6CB61}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66639457-96EC-4FCB-B53B-3EA55A4717D2}
+	EndGlobalSection
+EndGlobal

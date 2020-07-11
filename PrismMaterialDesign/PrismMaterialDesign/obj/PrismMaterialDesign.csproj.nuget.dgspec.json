@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign\\PrismMaterialDesign.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleA\\ModuleA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleA\\ModuleA.csproj",
+        "projectName": "ModuleA",
+        "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleA\\ModuleA.csproj",
+        "packagesPath": "C:\\Users\\froon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleA\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\froon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
+                "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
+              },
+              "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
+                "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj",
+        "projectName": "ModuleB",
+        "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj",
+        "packagesPath": "C:\\Users\\froon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\froon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
+                "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
+              },
+              "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
+                "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj",
+        "projectName": "PrismMaterialDesign.Core",
+        "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj",
+        "projectName": "PrismMaterialDesign.Resources",
+        "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign\\PrismMaterialDesign.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign\\PrismMaterialDesign.csproj",
+        "projectName": "PrismMaterialDesign",
+        "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign\\PrismMaterialDesign.csproj",
+        "packagesPath": "C:\\Users\\froon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\froon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleA\\ModuleA.csproj": {
+                "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleA\\ModuleA.csproj"
+              },
+              "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj": {
+                "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj"
+              },
+              "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
+                "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
+              },
+              "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
+                "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

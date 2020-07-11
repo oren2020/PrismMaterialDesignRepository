@@ -1,0 +1,7 @@
+C:\Users\froon\source\repos\PrismMaterialDesign\PrismMaterialDesign.Core\bin\Debug\PrismMaterialDesign.Core.dll
+C:\Users\froon\source\repos\PrismMaterialDesign\PrismMaterialDesign.Core\bin\Debug\PrismMaterialDesign.Core.pdb
+C:\Users\froon\source\repos\PrismMaterialDesign\PrismMaterialDesign.Core\obj\Debug\PrismMaterialDesign.Core.Properties.Resources.resources
+C:\Users\froon\source\repos\PrismMaterialDesign\PrismMaterialDesign.Core\obj\Debug\PrismMaterialDesign.Core.csproj.GenerateResource.cache
+C:\Users\froon\source\repos\PrismMaterialDesign\PrismMaterialDesign.Core\obj\Debug\PrismMaterialDesign.Core.csproj.CoreCompileInputs.cache
+C:\Users\froon\source\repos\PrismMaterialDesign\PrismMaterialDesign.Core\obj\Debug\PrismMaterialDesign.Core.dll
+C:\Users\froon\source\repos\PrismMaterialDesign\PrismMaterialDesign.Core\obj\Debug\PrismMaterialDesign.Core.pdb
