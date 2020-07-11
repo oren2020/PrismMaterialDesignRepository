@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZuveIYlKGfUBQ2NwLJZr5AdV5E7Hrrj70ewdTUALSsDPBFm0ymRDBNHR80j8kbt8tUxFM1uVYiDIyICsoEz6nA==",
+  "dgSpecHash": "mWNCyrAJ0xw0VoZhq2v3KPDCjM5e/0CbVCtAHywpNFA/R3Qi2Wntx1qVhr7Gr4FW2IBjvl5sLSmkyY/zHscoNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleA\\ModuleA.csproj",
+  "projectFilePath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\Modules\\ModuleA\\ModuleA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\froon\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
     "C:\\Users\\froon\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",

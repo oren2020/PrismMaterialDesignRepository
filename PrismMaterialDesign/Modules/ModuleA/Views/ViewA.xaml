@@ -25,7 +25,7 @@
                     FontSize="20" 
                     HorizontalAlignment="Center"
                     VerticalAlignment="Center" />
-            <Button Content="Light"
+            <Button Content="LIGHT"
                     Grid.Column="1"
                     Command="{Binding ChangeSkinCommand}"
                     CommandParameter="Light"

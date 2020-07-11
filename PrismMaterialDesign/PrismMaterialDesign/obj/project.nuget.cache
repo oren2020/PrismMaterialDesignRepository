@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q3+wjHL3TwETR46qp0O6mhRvmlpZEAT7hoSChaTLQT+fI6pOSYPL5inRL5wTYRSCQ68GHS6kA9SV/efxdbI6gQ==",
+  "dgSpecHash": "NsouSR3IkuAvOfidHdb+eA3KMNTEyY4ENBnhBPAKb4zzSceR0C/NvRLqOck0SyCu2WjyIKStSqvcfNbUcMuJcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign\\PrismMaterialDesign.csproj",
+  "projectFilePath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign\\PrismMaterialDesign.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\froon\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
     "C:\\Users\\froon\\.nuget\\packages\\materialdesigncolors\\1.2.6\\materialdesigncolors.1.2.6.nupkg.sha512",
