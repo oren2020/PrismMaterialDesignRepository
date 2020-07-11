@@ -414,11 +414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj",
+      "projectUniqueName": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj",
       "projectName": "ModuleB",
-      "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj",
+      "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj",
       "packagesPath": "C:\\Users\\froon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\Modules\\ModuleB\\obj\\",
+      "outputPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\Modules\\ModuleB\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -439,11 +439,11 @@
       "frameworks": {
         "net472": {
           "projectReferences": {
-            "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
-              "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
+            "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
+              "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
             },
-            "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
-              "projectPath": "C:\\Users\\froon\\source\\repos\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
+            "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
+              "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
             }
           }
         }
