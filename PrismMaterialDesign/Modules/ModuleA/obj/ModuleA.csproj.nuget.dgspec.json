@@ -27,16 +27,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/prism/api/v2/symbolpackage/": {}
         },
         "frameworks": {
           "net472": {
             "projectReferences": {
               "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
                 "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
-              },
-              "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
-                "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
               }
             }
           }
@@ -69,16 +67,6 @@
         "projectUniqueName": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj",
         "projectName": "PrismMaterialDesign.Core",
         "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj",
-        "projectName": "PrismMaterialDesign.Resources",
-        "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
       },
       "frameworks": {
         "net472": {}

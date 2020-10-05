@@ -8,25 +8,20 @@ namespace ModuleB
 {
     public class ModuleBModule : IModule
     {
-        readonly IRegionManager _regionManager;
+        private readonly IRegionViewRegistry _regionViewRegistry = null;
 
-        public ModuleBModule(IRegionManager regionManager)
+        public ModuleBModule(IRegionViewRegistry regionViewRegistry)
         {
-            _regionManager = regionManager;
+            _regionViewRegistry = regionViewRegistry;
         }
 
         public void OnInitialized(IContainerProvider containerProvider)
         {
-            IRegion region = _regionManager.Regions[RegionNames.RegionB];
-
-            var view = containerProvider.Resolve<ViewB>();
-            region.Add(view);
-            region.Activate(view);
+            _regionViewRegistry.RegisterViewWithRegion(RegionNames.RegionB, typeof(ViewB));
         }
 
         public void RegisterTypes(IContainerRegistry containerRegistry)
         {
-            containerRegistry.RegisterForNavigation<ViewB>();
         }
     }
 }

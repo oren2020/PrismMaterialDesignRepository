@@ -43,6 +43,7 @@ C:\Users\froon\source\repos\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\Ma
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\PrismMaterialDesign.exe
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\PrismMaterialDesign.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\CommonServiceLocator.dll
+C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\System.Windows.Interactivity.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\MaterialDesignColors.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\MaterialDesignColors.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\MaterialDesignThemes.Wpf.dll
@@ -53,7 +54,6 @@ C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesi
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\Prism.Unity.Wpf.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\Prism.Wpf.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\Prism.Wpf.pdb
-C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\System.Windows.Interactivity.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\System.ValueTuple.dll
@@ -63,10 +63,12 @@ C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesi
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\Unity.Container.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\ModuleA.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\ModuleB.dll
+C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\NotificationDialog.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\PrismMaterialDesign.Core.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\PrismMaterialDesign.Resources.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\ModuleA.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\ModuleB.pdb
+C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\NotificationDialog.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\PrismMaterialDesign.Core.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\PrismMaterialDesign.Resources.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\obj\Debug\PrismMaterialDesign.csprojAssemblyReference.cache
@@ -82,3 +84,4 @@ C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesi
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\obj\Debug\PrismMaterialDesign.csproj.CopyComplete
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\obj\Debug\PrismMaterialDesign.exe
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\obj\Debug\PrismMaterialDesign.pdb
+C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign\bin\Debug\PrismMaterialDesign.Core.dll.config

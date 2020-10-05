@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleB", "Modules\ModuleB\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismMaterialDesign.Resources", "PrismMaterialDesign.Resources\PrismMaterialDesign.Resources.csproj", "{66144FB3-A17D-4C6F-A2D6-C0502273BF80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationDialog", "NotificationDialog\NotificationDialog.csproj", "{FFEFE5B5-C373-4D39-A51B-4A7A98242235}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{66144FB3-A17D-4C6F-A2D6-C0502273BF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66144FB3-A17D-4C6F-A2D6-C0502273BF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66144FB3-A17D-4C6F-A2D6-C0502273BF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEFE5B5-C373-4D39-A51B-4A7A98242235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEFE5B5-C373-4D39-A51B-4A7A98242235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEFE5B5-C373-4D39-A51B-4A7A98242235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEFE5B5-C373-4D39-A51B-4A7A98242235}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8290506D-10BF-41F3-B72B-CAF1C12BFE09} = {E618A9FB-2F5D-45EA-B021-36D01DD6CB61}
 		{81D9418E-06DE-4EB5-8FD9-905BAA1478A6} = {E618A9FB-2F5D-45EA-B021-36D01DD6CB61}
+		{FFEFE5B5-C373-4D39-A51B-4A7A98242235} = {E618A9FB-2F5D-45EA-B021-36D01DD6CB61}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {66639457-96EC-4FCB-B53B-3EA55A4717D2}

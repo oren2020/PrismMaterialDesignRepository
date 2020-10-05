@@ -1,0 +1,11 @@
+﻿<controls:MessageBoxWindow x:Class="NotificationDialog.Views.MyWindow_2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="clr-namespace:PrismMaterialDesign.Resources.Controls;assembly=PrismMaterialDesign.Resources"
+        mc:Ignorable="d"
+        Style="{DynamicResource MsgBoxWindow_2}"
+        WindowStartupLocation="CenterScreen"
+        Title="Error">
+</controls:MessageBoxWindow>

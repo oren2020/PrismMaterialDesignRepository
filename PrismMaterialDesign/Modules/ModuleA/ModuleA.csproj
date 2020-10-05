@@ -82,10 +82,6 @@
       <Project>{0881185e-8b45-4a68-8fa0-846433e0671d}</Project>
       <Name>PrismMaterialDesign.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\PrismMaterialDesign.Resources\PrismMaterialDesign.Resources.csproj">
-      <Project>{66144fb3-a17d-4c6f-a2d6-c0502273bf80}</Project>
-      <Name>PrismMaterialDesign.Resources</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Page Include="Views\ViewA.xaml">
