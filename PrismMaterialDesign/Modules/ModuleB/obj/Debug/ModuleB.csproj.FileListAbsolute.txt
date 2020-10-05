@@ -32,9 +32,7 @@ C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesi
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\bin\Debug\System.Windows.Interactivity.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\bin\Debug\System.ValueTuple.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\bin\Debug\PrismMaterialDesign.Core.dll
-C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\bin\Debug\PrismMaterialDesign.Resources.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\bin\Debug\PrismMaterialDesign.Core.pdb
-C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\bin\Debug\PrismMaterialDesign.Resources.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\obj\Debug\ModuleB.csprojAssemblyReference.cache
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\obj\Debug\Views\ViewB.baml
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\obj\Debug\Views\ViewB.g.cs
@@ -46,3 +44,4 @@ C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesi
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\obj\Debug\ModuleB.csproj.CopyComplete
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\obj\Debug\ModuleB.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\obj\Debug\ModuleB.pdb
+C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\Modules\ModuleB\bin\Debug\PrismMaterialDesign.Core.dll.config

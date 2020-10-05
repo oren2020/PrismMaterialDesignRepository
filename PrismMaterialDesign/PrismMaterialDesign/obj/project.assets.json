@@ -11,7 +11,7 @@
           "lib/net47/CommonServiceLocator.dll": {}
         }
       },
-      "MaterialDesignColors/1.2.6": {
+      "MaterialDesignColors/1.2.7": {
         "type": "package",
         "compile": {
           "lib/net45/MaterialDesignColors.dll": {}
@@ -20,10 +20,10 @@
           "lib/net45/MaterialDesignColors.dll": {}
         }
       },
-      "MaterialDesignThemes/3.1.3": {
+      "MaterialDesignThemes/3.2.0": {
         "type": "package",
         "dependencies": {
-          "MaterialDesignColors": "[1.2.6, 2.0.0)"
+          "MaterialDesignColors": "[1.2.7, 2.0.0)"
         },
         "compile": {
           "lib/net45/MaterialDesignThemes.Wpf.dll": {}
@@ -141,8 +141,7 @@
         "framework": ".NETFramework,Version=v4.7.2",
         "dependencies": {
           "Prism.Wpf": "7.2.0.1422",
-          "PrismMaterialDesign.Core": "1.0.0",
-          "PrismMaterialDesign.Resources": "1.0.0"
+          "PrismMaterialDesign.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ModuleA.dll": {}
@@ -156,14 +155,28 @@
         "framework": ".NETFramework,Version=v4.7.2",
         "dependencies": {
           "Prism.Wpf": "7.2.0.1422",
-          "PrismMaterialDesign.Core": "1.0.0",
-          "PrismMaterialDesign.Resources": "1.0.0"
+          "PrismMaterialDesign.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ModuleB.dll": {}
         },
         "runtime": {
           "bin/placeholder/ModuleB.dll": {}
+        }
+      },
+      "NotificationDialog/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Prism.Wpf": "7.2.0.1422",
+          "PrismMaterialDesign.Core": "1.0.0",
+          "PrismMaterialDesign.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NotificationDialog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NotificationDialog.dll": {}
         }
       },
       "PrismMaterialDesign.Core/1.0.0": {
@@ -195,7 +208,7 @@
           "lib/net47/CommonServiceLocator.dll": {}
         }
       },
-      "MaterialDesignColors/1.2.6": {
+      "MaterialDesignColors/1.2.7": {
         "type": "package",
         "compile": {
           "lib/net45/MaterialDesignColors.dll": {}
@@ -204,10 +217,10 @@
           "lib/net45/MaterialDesignColors.dll": {}
         }
       },
-      "MaterialDesignThemes/3.1.3": {
+      "MaterialDesignThemes/3.2.0": {
         "type": "package",
         "dependencies": {
-          "MaterialDesignColors": "[1.2.6, 2.0.0)"
+          "MaterialDesignColors": "[1.2.7, 2.0.0)"
         },
         "compile": {
           "lib/net45/MaterialDesignThemes.Wpf.dll": {}
@@ -325,8 +338,7 @@
         "framework": ".NETFramework,Version=v4.7.2",
         "dependencies": {
           "Prism.Wpf": "7.2.0.1422",
-          "PrismMaterialDesign.Core": "1.0.0",
-          "PrismMaterialDesign.Resources": "1.0.0"
+          "PrismMaterialDesign.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ModuleA.dll": {}
@@ -340,14 +352,28 @@
         "framework": ".NETFramework,Version=v4.7.2",
         "dependencies": {
           "Prism.Wpf": "7.2.0.1422",
-          "PrismMaterialDesign.Core": "1.0.0",
-          "PrismMaterialDesign.Resources": "1.0.0"
+          "PrismMaterialDesign.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ModuleB.dll": {}
         },
         "runtime": {
           "bin/placeholder/ModuleB.dll": {}
+        }
+      },
+      "NotificationDialog/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Prism.Wpf": "7.2.0.1422",
+          "PrismMaterialDesign.Core": "1.0.0",
+          "PrismMaterialDesign.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NotificationDialog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NotificationDialog.dll": {}
         }
       },
       "PrismMaterialDesign.Core/1.0.0": {
@@ -379,7 +405,7 @@
           "lib/net47/CommonServiceLocator.dll": {}
         }
       },
-      "MaterialDesignColors/1.2.6": {
+      "MaterialDesignColors/1.2.7": {
         "type": "package",
         "compile": {
           "lib/net45/MaterialDesignColors.dll": {}
@@ -388,10 +414,10 @@
           "lib/net45/MaterialDesignColors.dll": {}
         }
       },
-      "MaterialDesignThemes/3.1.3": {
+      "MaterialDesignThemes/3.2.0": {
         "type": "package",
         "dependencies": {
-          "MaterialDesignColors": "[1.2.6, 2.0.0)"
+          "MaterialDesignColors": "[1.2.7, 2.0.0)"
         },
         "compile": {
           "lib/net45/MaterialDesignThemes.Wpf.dll": {}
@@ -509,8 +535,7 @@
         "framework": ".NETFramework,Version=v4.7.2",
         "dependencies": {
           "Prism.Wpf": "7.2.0.1422",
-          "PrismMaterialDesign.Core": "1.0.0",
-          "PrismMaterialDesign.Resources": "1.0.0"
+          "PrismMaterialDesign.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ModuleA.dll": {}
@@ -524,14 +549,28 @@
         "framework": ".NETFramework,Version=v4.7.2",
         "dependencies": {
           "Prism.Wpf": "7.2.0.1422",
-          "PrismMaterialDesign.Core": "1.0.0",
-          "PrismMaterialDesign.Resources": "1.0.0"
+          "PrismMaterialDesign.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ModuleB.dll": {}
         },
         "runtime": {
           "bin/placeholder/ModuleB.dll": {}
+        }
+      },
+      "NotificationDialog/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Prism.Wpf": "7.2.0.1422",
+          "PrismMaterialDesign.Core": "1.0.0",
+          "PrismMaterialDesign.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NotificationDialog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NotificationDialog.dll": {}
         }
       },
       "PrismMaterialDesign.Core/1.0.0": {
@@ -563,7 +602,7 @@
           "lib/net47/CommonServiceLocator.dll": {}
         }
       },
-      "MaterialDesignColors/1.2.6": {
+      "MaterialDesignColors/1.2.7": {
         "type": "package",
         "compile": {
           "lib/net45/MaterialDesignColors.dll": {}
@@ -572,10 +611,10 @@
           "lib/net45/MaterialDesignColors.dll": {}
         }
       },
-      "MaterialDesignThemes/3.1.3": {
+      "MaterialDesignThemes/3.2.0": {
         "type": "package",
         "dependencies": {
-          "MaterialDesignColors": "[1.2.6, 2.0.0)"
+          "MaterialDesignColors": "[1.2.7, 2.0.0)"
         },
         "compile": {
           "lib/net45/MaterialDesignThemes.Wpf.dll": {}
@@ -693,8 +732,7 @@
         "framework": ".NETFramework,Version=v4.7.2",
         "dependencies": {
           "Prism.Wpf": "7.2.0.1422",
-          "PrismMaterialDesign.Core": "1.0.0",
-          "PrismMaterialDesign.Resources": "1.0.0"
+          "PrismMaterialDesign.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ModuleA.dll": {}
@@ -708,14 +746,28 @@
         "framework": ".NETFramework,Version=v4.7.2",
         "dependencies": {
           "Prism.Wpf": "7.2.0.1422",
-          "PrismMaterialDesign.Core": "1.0.0",
-          "PrismMaterialDesign.Resources": "1.0.0"
+          "PrismMaterialDesign.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ModuleB.dll": {}
         },
         "runtime": {
           "bin/placeholder/ModuleB.dll": {}
+        }
+      },
+      "NotificationDialog/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Prism.Wpf": "7.2.0.1422",
+          "PrismMaterialDesign.Core": "1.0.0",
+          "PrismMaterialDesign.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NotificationDialog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NotificationDialog.dll": {}
         }
       },
       "PrismMaterialDesign.Core/1.0.0": {
@@ -758,10 +810,10 @@
         "lib/netstandard2.0/CommonServiceLocator.dll"
       ]
     },
-    "MaterialDesignColors/1.2.6": {
-      "sha512": "3x9k3T0wUxIGg5C1D6JQQXw/N549eHhIsiyF791VjgK+8sZU8ywpFaZwbd0KArQJiFJ7Ud14Vgl/63E6O86EFw==",
+    "MaterialDesignColors/1.2.7": {
+      "sha512": "e+shDlaSAJcuTArqtfWjVUgAOlwQlgWq8akkzCGe1MvfV1ozmOqqXyWxg5w0vC/3/KZ84wnPUJeI1wzEpI0uJQ==",
       "type": "package",
-      "path": "materialdesigncolors/1.2.6",
+      "path": "materialdesigncolors/1.2.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -770,14 +822,14 @@
         "lib/net45/MaterialDesignColors.pdb",
         "lib/netcoreapp3.1/MaterialDesignColors.dll",
         "lib/netcoreapp3.1/MaterialDesignColors.pdb",
-        "materialdesigncolors.1.2.6.nupkg.sha512",
+        "materialdesigncolors.1.2.7.nupkg.sha512",
         "materialdesigncolors.nuspec"
       ]
     },
-    "MaterialDesignThemes/3.1.3": {
-      "sha512": "pyB9HqalbdGmX9iGUIjb82zgtQ5zUCfRqZG/w6AV3+oAI3WMEgzAwzA+NfIlzSPQx4iUz+Xl/O6HcsXoxuuM0g==",
+    "MaterialDesignThemes/3.2.0": {
+      "sha512": "aOZQShQuV7sCWOwO98dYz1S4stmIWDBH+Q6KoR3wDiDyuG7twoGnBDzQBhrxuS16I3GQiG5nfvUjEJFVc/zdKg==",
       "type": "package",
-      "path": "materialdesignthemes/3.1.3",
+      "path": "materialdesignthemes/3.2.0",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -808,7 +860,7 @@
         "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll",
         "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.pdb",
         "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.xml",
-        "materialdesignthemes.3.1.3.nupkg.sha512",
+        "materialdesignthemes.3.2.0.nupkg.sha512",
         "materialdesignthemes.nuspec",
         "tools/VisualStudioToolsManifest.xml"
       ]
@@ -1037,6 +1089,11 @@
       "path": "../Modules/ModuleB/ModuleB.csproj",
       "msbuildProject": "../Modules/ModuleB/ModuleB.csproj"
     },
+    "NotificationDialog/1.0.0": {
+      "type": "project",
+      "path": "../NotificationDialog/NotificationDialog.csproj",
+      "msbuildProject": "../NotificationDialog/NotificationDialog.csproj"
+    },
     "PrismMaterialDesign.Core/1.0.0": {
       "type": "project",
       "path": "../PrismMaterialDesign.Core/PrismMaterialDesign.Core.csproj",
@@ -1050,9 +1107,10 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
-      "MaterialDesignThemes >= 3.1.3",
+      "MaterialDesignThemes >= 3.2.0",
       "ModuleA >= 1.0.0",
       "ModuleB >= 1.0.0",
+      "NotificationDialog >= 1.0.0",
       "Prism.Unity >= 7.2.0.1422",
       "PrismMaterialDesign.Core >= 1.0.0",
       "PrismMaterialDesign.Resources >= 1.0.0"
@@ -1085,7 +1143,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/prism/api/v2/symbolpackage/": {}
       },
       "frameworks": {
         "net472": {
@@ -1095,6 +1154,9 @@
             },
             "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj": {
               "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\Modules\\ModuleB\\ModuleB.csproj"
+            },
+            "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\NotificationDialog\\NotificationDialog.csproj": {
+              "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\NotificationDialog\\NotificationDialog.csproj"
             },
             "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
               "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
@@ -1111,7 +1173,7 @@
         "dependencies": {
           "MaterialDesignThemes": {
             "target": "Package",
-            "version": "[3.1.3, )"
+            "version": "[3.2.0, )"
           },
           "Prism.Unity": {
             "target": "Package",

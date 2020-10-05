@@ -61,15 +61,6 @@
         "runtime": {
           "bin/placeholder/PrismMaterialDesign.Core.dll": {}
         }
-      },
-      "PrismMaterialDesign.Resources/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/PrismMaterialDesign.Resources.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PrismMaterialDesign.Resources.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.7.2/win": {
@@ -131,15 +122,6 @@
         },
         "runtime": {
           "bin/placeholder/PrismMaterialDesign.Core.dll": {}
-        }
-      },
-      "PrismMaterialDesign.Resources/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/PrismMaterialDesign.Resources.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PrismMaterialDesign.Resources.dll": {}
         }
       }
     },
@@ -203,15 +185,6 @@
         "runtime": {
           "bin/placeholder/PrismMaterialDesign.Core.dll": {}
         }
-      },
-      "PrismMaterialDesign.Resources/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/PrismMaterialDesign.Resources.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PrismMaterialDesign.Resources.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.7.2/win-x86": {
@@ -273,15 +246,6 @@
         },
         "runtime": {
           "bin/placeholder/PrismMaterialDesign.Core.dll": {}
-        }
-      },
-      "PrismMaterialDesign.Resources/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/PrismMaterialDesign.Resources.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PrismMaterialDesign.Resources.dll": {}
         }
       }
     }
@@ -393,18 +357,12 @@
       "type": "project",
       "path": "../../PrismMaterialDesign.Core/PrismMaterialDesign.Core.csproj",
       "msbuildProject": "../../PrismMaterialDesign.Core/PrismMaterialDesign.Core.csproj"
-    },
-    "PrismMaterialDesign.Resources/1.0.0": {
-      "type": "project",
-      "path": "../../PrismMaterialDesign.Resources/PrismMaterialDesign.Resources.csproj",
-      "msbuildProject": "../../PrismMaterialDesign.Resources/PrismMaterialDesign.Resources.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
       "Prism.Wpf >= 7.2.0.1422",
-      "PrismMaterialDesign.Core >= 1.0.0",
-      "PrismMaterialDesign.Resources >= 1.0.0"
+      "PrismMaterialDesign.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -434,16 +392,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/prism/api/v2/symbolpackage/": {}
       },
       "frameworks": {
         "net472": {
           "projectReferences": {
             "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj": {
               "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Core\\PrismMaterialDesign.Core.csproj"
-            },
-            "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj": {
-              "projectPath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign.Resources\\PrismMaterialDesign.Resources.csproj"
             }
           }
         }

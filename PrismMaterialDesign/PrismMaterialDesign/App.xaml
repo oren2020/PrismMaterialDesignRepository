@@ -16,7 +16,8 @@
                         In MainWindow :
                         Background="{DynamicResource MaterialDesignPaper}"
                         TextElement.Foreground="{DynamicResource MaterialDesignBody}" !!!-->
-                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="Orange" SecondaryColor="Lime" />
+                <!--<materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="Orange" SecondaryColor="Lime" />-->
+                <materialDesign:BundledTheme BaseTheme="Dark" PrimaryColor="DeepPurple" SecondaryColor="Lime" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

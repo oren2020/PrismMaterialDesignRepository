@@ -1,5 +1,6 @@
 ﻿using ModuleA;
 using ModuleB;
+using NotificationDialog;
 using Prism.Ioc;
 using Prism.Modularity;
 using PrismMaterialDesign.Views;
@@ -19,7 +20,6 @@ namespace PrismMaterialDesign
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
-
         }
 
         protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)
@@ -27,6 +27,7 @@ namespace PrismMaterialDesign
             base.ConfigureModuleCatalog(moduleCatalog);
             moduleCatalog.AddModule(typeof(ModuleAModule));
             moduleCatalog.AddModule(typeof(ModuleBModule));
+            moduleCatalog.AddModule(typeof(NotificationDialogModule));
         }
     }
 }

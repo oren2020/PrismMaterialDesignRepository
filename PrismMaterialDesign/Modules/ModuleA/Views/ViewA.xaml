@@ -5,11 +5,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             d:DesignHeight="300" d:DesignWidth="300"
+             d:DesignHeight="350" d:DesignWidth="450"
              prism:ViewModelLocator.AutoWireViewModel="True">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
+            <RowDefinition Height="Auto"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
         <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
@@ -34,7 +35,13 @@
                     HorizontalAlignment="Center"
                     VerticalAlignment="Center" />
         </Grid >
-        <StackPanel  Grid.Row="1">
+        <Button Content="Dialog"
+                    Grid.Row="1"
+                    Command="{Binding ShowDialogCommand}"
+                    FontSize="20" 
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center" />
+        <StackPanel  Grid.Row="2">
             <TextBlock Text="{Binding Message}"
                    Style="{DynamicResource TextBlockStyle}"
                    Grid.Row="1"

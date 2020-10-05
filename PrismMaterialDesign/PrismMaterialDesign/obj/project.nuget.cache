@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NsouSR3IkuAvOfidHdb+eA3KMNTEyY4ENBnhBPAKb4zzSceR0C/NvRLqOck0SyCu2WjyIKStSqvcfNbUcMuJcg==",
+  "dgSpecHash": "sUqsoRxHrVWDXigAlsQ7WcVctrGad3M8vM6Ys7PT+WgHsId038nA013EFJmJISWsIBBkixN53UC81XrnNYv6jA==",
   "success": true,
   "projectFilePath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\PrismMaterialDesign\\PrismMaterialDesign.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\froon\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
-    "C:\\Users\\froon\\.nuget\\packages\\materialdesigncolors\\1.2.6\\materialdesigncolors.1.2.6.nupkg.sha512",
-    "C:\\Users\\froon\\.nuget\\packages\\materialdesignthemes\\3.1.3\\materialdesignthemes.3.1.3.nupkg.sha512",
+    "C:\\Users\\froon\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\froon\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
     "C:\\Users\\froon\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
     "C:\\Users\\froon\\.nuget\\packages\\prism.unity\\7.2.0.1422\\prism.unity.7.2.0.1422.nupkg.sha512",
     "C:\\Users\\froon\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
