@@ -13,7 +13,7 @@ namespace ModuleA.ViewModels
         private string _skin;
         private readonly Dictionary<string, string> _skins;
         private readonly IDialogService _dialogService;
-        private readonly IDialogServiceExt _dialogServiceExt;
+        //private readonly IDialogServiceExt _dialogServiceExt;
 
         public DelegateCommand<string> ChangeSkinCommand { get; private set; }
         public DelegateCommand ShowDialogCommand { get; private set; }
@@ -32,10 +32,10 @@ namespace ModuleA.ViewModels
             set { SetProperty(ref _mySelectedDate, value); }
         }
 
-        public ViewAViewModel(IDialogService dialogService, IDialogServiceExt dialogServiceExt)
+        public ViewAViewModel(IDialogService dialogService/*, IDialogServiceExt dialogServiceExt*/)
         {
             _dialogService = dialogService;
-            _dialogServiceExt = dialogServiceExt;
+            //_dialogServiceExt = dialogServiceExt;
             Message = "View A";
             _skin = "Dark";
             MySelectedDate = DateTime.Now;
@@ -98,32 +98,32 @@ namespace ModuleA.ViewModels
             if (!is2)
             {
                 var message = "This is a NOTIFICATION message that should be shown in the dialog.";
-                _dialogServiceExt.ShowNotification(message, r =>
-                {
-                    if (r.Result == ButtonResult.None)
-                        Message = "Result is None";
-                    else if (r.Result == ButtonResult.OK)
-                        Message = "Result is OK";
-                    else if (r.Result == ButtonResult.Cancel)
-                        Message = "Result is Cancel";
-                    else
-                        Message = "I Don't know what you did!?";
-                }, "MyWindow");
+                _dialogService.ShowDialog("NotificationDialogView", new DialogParameters($"message={message}"), r =>
+                 {
+                     if (r.Result == ButtonResult.None)
+                         Message = "Result is None";
+                     else if (r.Result == ButtonResult.OK)
+                         Message = "Result is OK";
+                     else if (r.Result == ButtonResult.Cancel)
+                         Message = "Result is Cancel";
+                     else
+                         Message = "I Don't know what you did!?";
+                 }, "MyWindow");
             }
             else
             {
                 var message = "This is an ERROR message that should be shown in the dialog.";
-                _dialogServiceExt.ShowNotification(message, r =>
-                {
-                    if (r.Result == ButtonResult.None)
-                        Message = "Result is None";
-                    else if (r.Result == ButtonResult.OK)
-                        Message = "Result is OK";
-                    else if (r.Result == ButtonResult.Cancel)
-                        Message = "Result is Cancel";
-                    else
-                        Message = "I Don't know what you did!?";
-                }, "MyWindow_2");
+                _dialogService.ShowDialog("NotificationDialogView", new DialogParameters($"message={message}"), r =>
+                 {
+                     if (r.Result == ButtonResult.None)
+                         Message = "Result is None";
+                     else if (r.Result == ButtonResult.OK)
+                         Message = "Result is OK";
+                     else if (r.Result == ButtonResult.Cancel)
+                         Message = "Result is Cancel";
+                     else
+                         Message = "I Don't know what you did!?";
+                 }, "MyWindow_2");
             }
             is2 = !is2;
         }

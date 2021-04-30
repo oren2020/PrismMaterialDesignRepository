@@ -16,7 +16,7 @@
         <Setter Property="Padding" Value="0,4" />
         <Setter Property="FontSize" Value="13" />
         <Setter Property="FontWeight" Value="Regular" />
-        <Setter Property="Background" Value="Red" />
+        <Setter Property="Background" Value="gray" />
     </Style>
 
     <Style TargetType="{x:Type TextBlock}" x:Key="MaterialDesignTextBlock">
@@ -48,7 +48,8 @@
         <Setter Property="Height" Value="180" />
         <Setter Property="Background" Value="{DynamicResource MaterialDesignPaper}" />
         <Setter Property="Foreground" Value="{DynamicResource MaterialDesignBody}" />
-        <Setter Property="BorderBrush" Value="{DynamicResource SecondaryAccentBrush}" />
+        <!--<Setter Property="BorderBrush" Value="{DynamicResource SecondaryAccentBrush}" />-->
+        <Setter Property="BorderBrush" Value="Blue" />
         <Setter Property="BorderBackgroundBrush" Value="{DynamicResource PrimaryHueDarkBrush}" />
         <Setter Property="BorderForegroundBrush" Value="{DynamicResource PrimaryHueDarkForegroundBrush}" />
         <Setter Property="FontFamily" Value="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto" />

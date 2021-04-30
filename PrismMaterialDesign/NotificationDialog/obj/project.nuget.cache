@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "R9vE/l8EI/VqqKUSSbXYnixJmkHDZsn6xOk3kslM5fCm4czbMA6OT05uOJ6q8+oJOzE900APb2s+AR6dX5Ll6Q==",
+  "dgSpecHash": "q4Asx8nv7KHcQj6jGeA+J5RxTAU8Rup8YEOC1kvpX8ivScbe+0SUH+oHdiMRbQIwWUn8+xcHtdxQyAPKg/aq0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\froon\\Documents\\vsproject\\PrismMaterialDesign_project\\PrismMaterialDesign\\NotificationDialog\\NotificationDialog.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\froon\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
-    "C:\\Users\\froon\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
-    "C:\\Users\\froon\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
-    "C:\\Users\\froon\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+    "C:\\Users\\froon\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\froon\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\froon\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
   ],
   "logs": []
 }

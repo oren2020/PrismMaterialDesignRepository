@@ -45,7 +45,7 @@ namespace ModuleA
 
         public void RegisterTypes(IContainerRegistry containerRegistry)
         {
-            containerRegistry.Register<IDialogServiceExt, DialogServiceExt>();
+            //containerRegistry.Register<IDialogServiceExt, DialogServiceExt>();
         }
     }
 }

@@ -45,3 +45,27 @@ C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesi
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.dll
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.pdb
 C:\Users\froon\Documents\vsproject\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.csprojAssemblyReference.cache
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\bin\Debug\PrismMaterialDesign.Resources.dll
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\bin\Debug\PrismMaterialDesign.Resources.pdb
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\bin\Debug\MaterialDesignColors.dll
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\bin\Debug\MaterialDesignColors.pdb
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.csprojAssemblyReference.cache
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\Resources.baml
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\Skins\Dark\Brushes.baml
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\Skins\Dark\Skin.baml
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\Skins\Light\Brushes.baml
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\Skins\Light\Skin.baml
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources_MarkupCompile.cache
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources_MarkupCompile.lref
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\Styles\DefaultStyles.baml
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.g.resources
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.Properties.Resources.resources
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.csproj.GenerateResource.cache
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.csproj.CoreCompileInputs.cache
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.csproj.CopyComplete
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.dll
+C:\Users\froon\Documents\vsproject - Copy\PrismMaterialDesign_project\PrismMaterialDesign\PrismMaterialDesign.Resources\obj\Debug\PrismMaterialDesign.Resources.pdb
